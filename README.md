@@ -8,8 +8,6 @@
 
 ![Ciro GitHub stats](https://github-readme-stats.vercel.app/api?username=devCiro&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devCiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
