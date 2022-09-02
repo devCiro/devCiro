@@ -6,7 +6,7 @@
 [![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015717997979)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cirorjr/)
 
-![Ciro GitHub stats](https://github-readme-stats.vercel.app/api?username=devCiro&show_icons=true&theme=radical)
+![Ciro GitHub stats](https://github-readme-stats.vercel.app/api?username=devCiro&show_icons=true&theme=merko)
 
 ### Tecnologias que uso no meu dia
 
